@@ -61,7 +61,7 @@ PACKAGES="$PACKAGES openssh-sftp-server"
 # 静态文件服务器dufs(推荐)
 # PACKAGES="$PACKAGES luci-i18n-dufs-zh-cn"
 # 802.11 kvr 无线漫游
-PACKAGES="$PACKAGES wpad-mbedtls"
+# PACKAGES="$PACKAGES wpad-mbedtls"
 
 # 第三方软件包 合并
 # ======== shell/custom-packages.sh =======
